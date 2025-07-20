@@ -76,9 +76,4 @@ Or just visit the **live version**: [🌐 Visit Site](https://your-deployed-link
 
 > *“Because in the 90s, music wasn’t streamed… it was downloaded and forgotten on LimeWire.”*
 
----
 
-```
-
-Let me know your **project name**, **GitHub link**, or **deployment link** and I can personalize this even more!
-```
